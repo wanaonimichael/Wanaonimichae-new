@@ -1,6 +1,6 @@
 # Wanaoni Foundation
 
- HEAD
+ 
 Welcome to the Wanaoni Foundation website repository. This project is dedicated to providing resources, guidance, and support for individuals applying for the DV Lottery.
 
 Welcome to the Wanaoni Foundation's official website repository. This project is dedicated to providing resources, guidance, and support for individuals applying for the Diversity Visa (DV) Lottery.
@@ -12,7 +12,7 @@ The Wanaoni Foundation website aims to assist individuals through the DV Lottery
 
 ## Features
 
- HEAD
+ 
 - **Application Assistance**: Guidance on the DV Lottery application process.
 - **Document Review**: Review and feedback on application documents.
 - **Real-time Updates**: Notifications on lottery results and next steps.
@@ -22,12 +22,12 @@ The Wanaoni Foundation website aims to assist individuals through the DV Lottery
 - **Document Review**: Detailed review and feedback on application documents.
 - **Real-time Updates**: Notifications on lottery results and next steps.
 - **AI Chatbot (Agnes)**: Instant support and answers to queries via our integrated Dialogflow chatbot.
--  455c22484 (Initial commit with all project files)
+ 
 - **Contact Information**: Easy access to our contact details for personalized assistance.
 
 ## Technologies Used
 
- HEAD
+ 
 - **HTML/CSS**: Structure and styling of the website.
 - **JavaScript**: Interactive elements and functionality.
 - **Dialogflow**: AI chatbot integration for instant query resolution.
@@ -39,16 +39,14 @@ The Wanaoni Foundation website aims to assist individuals through the DV Lottery
 - **Dialogflow**: For AI chatbot integration, providing instant query resolution.
 - **nginx**: For web server configuration.
 - **Certbot**: To manage SSL certificates for secure connections.
- 455c22484 (Initial commit with all project files)
+  
 
 ## How to Use
 
 1. **Clone the Repository**:
-   ```bash
- HEAD
+   
    git clone https://github.com/Wanaonimichael/username.github.io
 
    git clone https://github.com/Wanaonimichael/Wanaonimichael.github.io
    cd Wanaonimichael.github.io
- 455c22484 (Initial commit with all project files)
 
